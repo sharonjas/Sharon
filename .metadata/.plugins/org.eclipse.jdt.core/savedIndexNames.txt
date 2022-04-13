@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\TYSS\.metadata\.plugins\org.eclipse.jdt.core
+3918533710.index

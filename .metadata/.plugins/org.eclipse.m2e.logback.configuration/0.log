@@ -1,0 +1,10 @@
+2022-04-13 11:53:19,819 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-13 11:54:06,357 [Worker-14: Creating project "Tyss"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tyss:Tyss:0.0.1-SNAPSHOT @ D:\TYSS\Tyss\pom.xml.
+2022-04-13 11:54:07,821 [Worker-14: Creating project "Tyss"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tyss/src/main/java
+2022-04-13 11:54:07,824 [Worker-14: Creating project "Tyss"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Tyss/src/main/resources
+2022-04-13 11:54:07,825 [Worker-14: Creating project "Tyss"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tyss/src/test/java
+2022-04-13 11:54:07,865 [Worker-14: Creating project "Tyss"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Tyss/src/test/resources
+2022-04-13 11:54:12,661 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-13 11:54:12,684 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 11:54:12,686 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-13 11:54:12,694 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
